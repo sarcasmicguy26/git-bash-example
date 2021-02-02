@@ -1,3 +1,6 @@
 This file is made in local storage and then uploaded to github
 
 We are om the develop branch
+
+
+Adding a new feature in feature/new-feature branch:
